@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^16.11.11"
+  },
+  "scripts": {
+    "start": "node --experimental-json-modules app.js"
+  }
+}

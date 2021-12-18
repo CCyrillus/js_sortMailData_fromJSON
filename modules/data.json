@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "user": "mike3@mail.com",
+      "rating": 20,
+      "disabled": false,
+      "male": "man"
+    },
+    {
+      "user": "greg5@mail.com",
+      "rating": 14,
+      "disabled": false,
+      "male": "girl"
+    },
+    {
+      "user": "john7@mail.com",
+      "rating": 25,
+      "disabled": true,
+      "male": "man"
+    },
+    {
+      "user": "potte0@mail.com",
+      "rating": 10,
+      "disabled": false,
+      "male": "man"
+    },
+    {
+      "user": "qwer2@mail.com",
+      "rating": 33,
+      "disabled": false,
+      "male": "girl"
+    },
+    {
+      "user": "mari1@mail.com",
+      "rating": 31,
+      "disabled": true,
+      "male": "girl"
+    },
+    {
+      "user": "potte0@mail.com",
+      "rating": 10,
+      "disabled": false,
+      "male": "man"
+    }
+  ],
+  "condition": {
+    "include": [
+      {
+        "disabled": false
+      }
+    ],
+    "sort_by": [
+      "rating"
+    ]
+  }
+}
